@@ -1,9 +1,9 @@
 {
-  "name": "@azz/prettier-config",
+  "name": "@christiannaths/prettier-config",
   "version": "1.0.0",
   "description": "My personal Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:azz/prettier-config.git",
-  "author": "Lucas Azzola <lucas@azzola.dev>",
+  "repository": "git@github.com:christiannaths/prettier-config.git",
+  "author": "Christian Naths <christiannaths@gmail.com>",
   "license": "MIT"
 }
